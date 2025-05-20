@@ -6,7 +6,7 @@ This microservice converts between color names and their corresponding hex codes
 2. **Color Name**: Sends the hex code corresponding to the provided color name.
 The microservice communicates via Python sockets.
 
-# How to Programmatically Request Data
+# How to Programmatically REQUEST & RECEIVE Data
 To request data from the microservice, create a socket connection and send either a hex code or a color name to the microservice. 
 
 **Example for Sending Hex Code:**
