@@ -47,6 +47,4 @@ print(f"Response: {response}")
 
 **UML Sequence Diagram**
 
-![uml sequence diagram](https://github.com/user-attachments/assets/534a7111-a201-4508-8aa4-ceceab2866bf)
-
-
+![umlsequence](https://github.com/user-attachments/assets/45d3f301-21ab-49b1-a63b-5ed39bd3a736)
