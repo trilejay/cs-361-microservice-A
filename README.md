@@ -25,8 +25,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     response = s.recv(1024).decode()
 
 print(f"Response: {response}")
+```
 
 **Example for Sending Color Name:**
+
 ```python
 import socket
 
@@ -41,9 +43,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     response = s.recv(1024).decode()
 
 print(f"Response: {response}")
+```
 
-
-**## UML Sequence Diagram**
+**UML Sequence Diagram**
 Client                                Microservice
   |                                        |
   |---- send string with hex code or color name -->|
