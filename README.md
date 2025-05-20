@@ -46,9 +46,6 @@ print(f"Response: {response}")
 ```
 
 **UML Sequence Diagram**
-![uml sequence drawio](https://github.com/user-attachments/assets/5026b723-808c-4c0d-bdd3-fb255aa63904)
 
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+![uml sequence drawio](https://github.com/user-attachments/assets/990819d3-df8e-432f-b011-4cb8dc1785b1)
+
